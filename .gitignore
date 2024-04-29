@@ -1,0 +1,7 @@
+## Javascript misc
+package-lock.json
+node_modules/
+
+## Clasp config files
+#.clasp.json
+# src/appsscript.json
